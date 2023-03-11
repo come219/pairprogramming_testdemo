@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(20,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(41,3): error C3861:  'gameType1': identifier not found
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(53,2): error C2059:  syntax error: 'return'
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(56,1): error C2059:  syntax error: '}'
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(56,1): error C2143:  syntax error: missing ';' before '}'
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(60,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\qqstj\source\repos\Project1\Project1\main.cpp(60,1): error C2447:  '{': missing function header (old-style formal list?)
